@@ -1,6 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+
+// I iz in ur code, changing ur stuffz
+
 public class _Player : MonoBehaviour {
 	public float walkSpeed = 50;
 	public float maxSpeed = 100;
